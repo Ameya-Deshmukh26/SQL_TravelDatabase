@@ -1,6 +1,6 @@
 # SQL_TravelDatabase
 
-##Created this Database inn Mysql.
+##Created this Database in Mysql.
 
 <img width="371" alt="Screenshot 2024-07-01 221046" src="https://github.com/Ameya-Deshmukh26/SQL_TravelDatabase/assets/77532501/39f446d5-bfb0-4257-9a4c-aea7eb5ea36a">
 
